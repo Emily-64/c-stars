@@ -1,4 +1,5 @@
 ⭐ Stars Pattern Program in C
+
 📌 Overview
 
 This project contains a simple C program to print star patterns on the console.
