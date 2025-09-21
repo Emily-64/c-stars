@@ -8,7 +8,5 @@ It demonstrates the use of nested loops in C to generate different shapes like t
 ⚙️ Features
 
 Prints star (*) patterns in different arrangements.
-
 Uses nested for loops for row/column handling.
-
 Easy to modify for other patterns (numbers, characters, etc.).
